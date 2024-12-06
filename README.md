@@ -1,1 +1,4 @@
-# A3
+# A3g
+The A3 inpyb is for the main training, tuning and testing task.
+
+The BSET and CHSCP are the notebook for completing the task - finalized model train, fit and predict with unseens data. 
